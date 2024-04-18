@@ -15,36 +15,40 @@ This repository contains Battlescribe formatted data for a 10th edition version 
 
 Yes! The files are downloadable directly through github. Below are instructions to add the data on PC and Mobile.
 
-[Data Url Link][latestRelease]
-
 On PC
+
 1. Click Manage Data (three rectangles)
 2. Click Import Data
 3. Click Import Data from URL
-4. Paste our [data URL][latestRelease]
+4. Paste our [Data URL][latestRelease]
 
 On Mobile
+
 1. Tap Manage Data (three rectangles)
 2. Tap the 3 dots
 3. Tap Add data index url
-4. Paste our [data URL][latestRelease]
+4. Paste our [Data URL][latestRelease]
 
 ### How did you create the new datasheets?
 
-In general we tried to follow the following rules for converting the datasheets, then follow up by tweak and changing values as needed through playtesting and feedback.
+Our baseline datasheet is the Tactial Squad where `T4` `Sv 3+` is `Sv 6+`, and a boltgun is `SAP 7+`, `SAT 9+`. In general we try to follow the following rules for converting the datasheets, then follow up by tweak and changing values as needed through playtesting and feedback.
 
 > #### Wounds
+>
 > For every 5 wounds in a unit, the unit gets 1 wound in the apoc datasheet
 >
 > #### Attacks
+>
 > For every 3A of a weapon in a unit, the unit gets 1A
 >
 > #### Saves
 >
 > #### Points
+>
 > Every 20 points is equivalent to 1PL
 >
 > #### Other Values
+>
 > Other values are largely unchanged
 
 ### I have a request/found a bug!
@@ -57,6 +61,7 @@ Please [open an issue directly][openIssue] (GitHub account required). After crea
 
 [Links]: #links
 
+- [Latest Data URL][latestRelease]
 - [Request a Feature or Report a Bug][openIssue]
 - [Report an Issue to BSData on Appspot][ReportitonAppspot]
 - [BattleScribe Homepage][BattleScribeHomepage]
