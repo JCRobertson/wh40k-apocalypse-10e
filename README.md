@@ -34,22 +34,13 @@ On Mobile
 Our baseline datasheet is the Tactial Squad where `T4` `Sv 3+` is `Sv 6+`, and a boltgun is `SAP 7+`, `SAT 9+`. In general we try to follow the following rules for converting the datasheets, then follow up by tweak and changing values as needed through playtesting and feedback.
 
 > #### Wounds
->
 > For every 5 wounds in a unit, the unit gets 1 wound in the apoc datasheet
 >
 > #### Attacks
->
 > For every 3A of a weapon in a unit, the unit gets 1A
 >
-> #### Saves
->
 > #### Points
->
 > Every 20 points is equivalent to 1PL
->
-> #### Other Values
->
-> Other values are largely unchanged
 
 ### I have a request/found a bug!
 
