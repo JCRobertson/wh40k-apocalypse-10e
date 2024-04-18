@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f99f-cb59-d499-fbc1" name="Adeptus Mechanicus" revision="1" battleScribeVersion="2.03" authorName="JRobertson" library="false" gameSystemId="440c-9567-ca71-f95b" gameSystemRevision="14" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryEntries>
+    <categoryEntry id="bfeb-17ed-45cb-e454" name="Faction: Adpetus Mechanicus" hidden="false"/>
+  </categoryEntries>
+  <selectionEntries>
+    <selectionEntry id="e976-c6d5-35a6-0fa4" name="Belisarius Cawl" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="bab9-6c72-081d-6102" name="Belisarius Cawl" hidden="false" typeId="c9f1-094d-9681-28f3" typeName="Weapons">
+          <characteristics>
+            <characteristic name="Type" typeId="359f-19b3-6670-21f5">6&quot;</characteristic>
+            <characteristic name="Range" typeId="bea7-7040-8485-6f0f">2+</characteristic>
+            <characteristic name="A" typeId="2883-af07-d4e8-d8d0">2+</characteristic>
+            <characteristic name="SAP" typeId="74b1-f85d-ede5-c758">7</characteristic>
+            <characteristic name="SAT" typeId="4b6c-996a-d317-affb">6</characteristic>
+            <characteristic name="Abilities" typeId="61ff-d2ec-f13b-06fa"/>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="b1c6-0780-f636-00db" name="Cybernetica Datasmith" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="ca78-1e63-550a-e6ba" name="Skitarii Marshal" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="e3a0-f6a0-212f-6002" name="Sydonian Skatros" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="0212-840b-0314-66c8" name="Tech-Priest Dominus" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="dd6b-7be2-0725-b777" name="Tech-Priest Enginseer" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="c3f2-b050-67b6-c61f" name="Tech-Priest Manipulus" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="7ec1-cf45-3f34-6afd" name="Technoarcheologist" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="9375-2c2e-dfe6-c4c1" name="Skitarii Rangers" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="b3cd-eac4-c5fc-b3e4" name="Skitarii Vanguard" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="d2a0-e18b-30ff-5c8a" name="Skorpius Dunerider" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="8121-3b8b-e3f3-369e" name="Archaeopter Fusilave" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="9422-be25-7154-9ede" name="Archaeopter Stratoraptor" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="76fa-4fa5-11be-b3a9" name="Archaeopter Transvector" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="3e16-8097-28fe-77f0" name="Corpuscarii Electro-priests" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="f8d6-db98-bdcc-f8cf" name="Fulgurite Electro-priests" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="044f-4051-cdea-b977" name="Ironstrider Ballistarii" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="f9e3-6225-0017-65b3" name="Kastelan Robots" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="0339-bd49-6dc7-e097" name="Kataphron Breachers" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="714d-e02e-c273-30e2" name="Kataphron Destroyers" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="c222-22cb-cb49-1fd3" name="Onager Dunecrawler" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="2098-e4c8-7ae4-ff84" name="Pteraxii Skystalkers" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="7802-35cf-ef4a-7428" name="Pteraxii Sterylizors" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="91e8-9bed-ef39-1505" name="Serberys Raiders" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="43a7-31cd-b50c-a862" name="Serberys Sulphurhounds" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="5c46-f56d-7b34-d587" name="Sicarian Inflitrators" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="f47d-2e6d-bf1b-b309" name="Sicarian Ruststalkers" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="ac29-dd1a-5cfb-3317" name="Skorpius Disintegrator" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="c6ed-6c40-9d99-e2c9" name="Sydonian Dragoons With Radium Jezzails" hidden="false" collective="false" import="true" type="unit"/>
+    <selectionEntry id="e778-a873-7ceb-f422" name="Sydonian Dragoons With Taser Lances" hidden="false" collective="false" import="true" type="unit"/>
+  </selectionEntries>
+</catalogue>
